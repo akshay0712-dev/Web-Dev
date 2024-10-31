@@ -1,0 +1,12 @@
+footer{
+    /* height: 5vh; */
+    text-align: center;
+    width: 100vw;
+    background-color: rgb(41, 38, 38);
+    color: white;
+    font-weight: 600;
+    font-size: 0.8rem;
+    position: fixed;
+    bottom: 0;
+    padding: 1rem 0;
+}
